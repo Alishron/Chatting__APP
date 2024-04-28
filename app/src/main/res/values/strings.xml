@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">wechat</string>
+    <string name="default_web_client_id">430613651447-nflmpe9emk1lc92rq33ot6rihaqj5sak.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
